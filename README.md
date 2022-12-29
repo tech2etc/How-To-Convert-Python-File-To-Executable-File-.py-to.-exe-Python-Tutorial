@@ -1,4 +1,4 @@
-# How To Convert Python File To Executable File .py to. exe Python Tutorial
+# How To Convert Python File To Executable File .py to. exe
 Learn **How To Convert Python File To Executable File (.py to. exe)**. After a long hard work you created a simple gui application. Now its time to share your creation with your friends and relatives. You can simply share your code. But sharing an app will be exceptional. So, lets convert your code to an application.
 
 [![convert python code into application tech2etc](https://user-images.githubusercontent.com/80243988/135795418-7fdec694-f118-467b-a4eb-d6d4c94f19ec.PNG)](https://youtu.be/H51tczH3IZ0)
