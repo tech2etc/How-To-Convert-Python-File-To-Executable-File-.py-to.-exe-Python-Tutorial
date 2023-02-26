@@ -1,6 +1,6 @@
-# How To Convert Python File To Executable File .py to. exe
-Learn **How To Convert Python File To Executable File (.py to. exe)**. After a long hard work you created a simple gui application. Now its time to share your creation with your friends and relatives. You can simply share your code. But sharing an app will be exceptional. So, lets convert your code to an application.
+#Python Dosyasını Yürütülebilir Dosya .py'ye Dönüştürme. exe
+**Python Dosyasını Yürütülebilir Dosyaya (.py to.exe) Nasıl Dönüştüreceğinizi** Öğrenin. Uzun bir sıkı çalışmanın ardından basit bir gui uygulaması oluşturdunuz. Şimdi yaratıcılığınızı arkadaşlarınız ve akrabalarınızla paylaşma zamanı. Kodunuzu kolayca paylaşabilirsiniz. Ancak bir uygulamayı paylaşmak olağanüstü olacaktır. Öyleyse, kodunuzu bir uygulamaya dönüştürelim.
 
 [![convert python code into application tech2etc](https://user-images.githubusercontent.com/80243988/135795418-7fdec694-f118-467b-a4eb-d6d4c94f19ec.PNG)](https://youtu.be/H51tczH3IZ0)
 
-Hi everybody today i will show you **how to convert python files into executable programs**. Feel free to use your own gui applications instead and while there's actually a few ways of doing this. In this tutorial, we will only focus on **auto py to exe**. Because that's my favorite one and let's begin by installing it.
+Herkese merhaba bugün size **python dosyalarını çalıştırılabilir programlara nasıl dönüştüreceğinizi** göstereceğim. Bunun yerine kendi gui uygulamalarınızı kullanmaktan çekinmeyin ve aslında bunu yapmanın birkaç yolu var. Bu eğitimde, yalnızca **auto py to exe** konusuna odaklanacağız. Çünkü bu benim favorim ve onu yükleyerek başlayalım.
